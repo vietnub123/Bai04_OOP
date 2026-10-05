@@ -1,0 +1,41 @@
+[PASS] T01 | Nhân viên lương cố định theo đề
+[PASS] T02 | Nhân viên 150 giờ theo đề
+[PASS] T03 | Nhân viên 170 giờ theo đề
+[PASS] T04 | Nhân viên kinh doanh theo đề
+[PASS] T05 | Tổng bảng lương đa hình
+[PASS] T06 | Tổng phòng Hỗ trợ
+[PASS] T07 | Người thu nhập cao nhất
+[PASS] T08 | Tra cứu mã tồn tại và vắng mặt
+[PASS] T09 | Giờ làm tại biên 0 và 160
+[PASS] T10 | Giờ làm tại biên 250
+[PASS] T11 | Giờ lẻ ngay trên 160
+[PASS] T12 | Giờ âm và vượt 250
+[PASS] T13 | Đơn giá giờ âm
+[PASS] T14 | Lương và phụ cấp âm
+[PASS] T15 | Lương cơ bản hoặc doanh số âm
+[PASS] T16 | Hoa hồng tại biên 0 và 0,3
+[PASS] T17 | Hoa hồng âm và lớn hơn 0,3
+[PASS] T18 | Mã rỗng và chỉ có khoảng trắng
+[PASS] T19 | Tên hoặc phòng ban rỗng
+[PASS] T20 | Constructor rút gọn của ba lớp
+[PASS] T21 | Cộng dồn cả ba addBonus
+[PASS] T22 | Thưởng cố định bằng 0 hoặc âm
+[PASS] T23 | Lý do rỗng ở hai phiên bản
+[PASS] T24 | Tỷ lệ thưởng tại biên 0,5
+[PASS] T25 | Tỷ lệ thưởng 0, âm hoặc trên 0,5
+[PASS] T26 | Giá trị tham chiếu 0 hoặc âm
+[PASS] T27 | Đặt lại thưởng
+[PASS] T28 | Cập nhật doanh số hợp lệ
+[PASS] T29 | Cập nhật doanh số âm
+[PASS] T30 | Thêm trùng mã khác loại
+[PASS] T31 | Thêm con trỏ null
+[PASS] T32 | Bảng lương rỗng
+[PASS] T33 | Phòng không tồn tại và phòng rỗng
+[PASS] T34 | Hai người đồng hạng
+[PASS] T35 | Định dạng kỳ lương
+[PASS] T36 | NaN và vô cực trong dữ liệu số
+[PASS] T37 | Tràn tổng thưởng
+[PASS] T38 | Tràn thu nhập và tổng bảng lương
+[PASS] T39 | Hiển thị đa hình và các thành phần
+[PASS] T40 | Thêm lớp mới không sửa Payroll
+RESULT: 40/40 passed

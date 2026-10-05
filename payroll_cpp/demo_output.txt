@@ -1,0 +1,19 @@
+BANG LUONG KY 2026-09
+E001 | Nguyễn Minh An | Đào tạo | SalariedEmployee
+  Thuong: 1000000.00 VND
+  Luong thang: 15000000.00 | Phu cap: 2000000.00 | Thu nhap: 18000000.00 VND
+E002 | Trần Thu Bình | Hỗ trợ | HourlyEmployee
+  Thuong: 500000.00 VND
+  Don gia: 100000.00 | Gio thuong: 150 | Gio them: 0
+  Tien gio thuong: 15000000.00 | Tien gio them: 0.00 | Thu nhap: 15500000.00 VND
+E003 | Lê Hoàng Chi | Hỗ trợ | HourlyEmployee
+  Thuong: 0.00 VND
+  Don gia: 100000.00 | Gio thuong: 160 | Gio them: 10
+  Tien gio thuong: 16000000.00 | Tien gio them: 1500000.00 | Thu nhap: 17500000.00 VND
+E004 | Phạm Quốc Dũng | Kinh doanh | SalesEmployee
+  Thuong: 1000000.00 VND
+  Luong co ban: 8000000.00 | Doanh so: 200000000.00 | Ty le: 5%
+  Hoa hong: 10000000.00 | Thu nhap: 19000000.00 VND
+TONG BANG LUONG: 70000000.00 VND
+TONG PHONG HO TRO: 33000000.00 VND
+CAO NHAT: E004 | Phạm Quốc Dũng | 19000000.00 VND
